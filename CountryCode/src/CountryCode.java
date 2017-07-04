@@ -60,7 +60,7 @@ public enum CountryCode
 {
     // @formatter:off
     /** <a href="http://en.wikipedia.org/wiki/Andorra">Andorra</a> */
-    AD("Andorra", "AND", 16),
+    AD("Andorra", "AND", 20),
 
     /** <a href="http://en.wikipedia.org/wiki/United_Arab_Emirates">United Arab Emirates</a> */
     AE("United Arab Emirates", "ARE", 784),
